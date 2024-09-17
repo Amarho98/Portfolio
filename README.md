@@ -30,6 +30,36 @@ This analysis helped local authorities focus on accident-prone areas, reducing p
 
 ---
 
+## Analysis of Hospital Performance & Quality Measures
+
+### Overview
+This project offers a comprehensive analysis of hospital performance across the U.S., focusing on mortality rates, patient experience, and ownership distribution. 
+Interactive visualizations allow for filtering by hospital type, ownership, and state, providing detailed insights into healthcare quality.
+
+### Tools and Techniques
+- **Programming Languages**: Power BI
+- **Data Source**: Hospital performance datasets
+- **Visualization**: Pie charts, bar charts, bubble charts, and geographical maps
+
+### Methodology
+1. Merged hospital datasets and created interactive filters for hospital type, ownership type, and state.
+2. Visualized hospital distribution and state-level mortality rates using pie and bar charts.
+3. Analyzed patient experience and mortality measures with line and bubble charts.
+4. Mapped hospital distribution globally for geographical insights.
+
+### Results
+Identified high-mortality hospitals by state and type.
+Highlighted correlations between patient experience and hospital type.
+Mapped hospital distributions, providing a clear regional analysis of healthcare performance.
+
+### Conclusion
+This dashboard enables stakeholders to explore key performance indicators, providing actionable insights into improving hospital quality and patient outcomes.
+
+### Repository
+[View Project on GitHub](https://github.com/Amarho98/Portfolio/blob/main/Analysis%20of%20Hospital%20Performance%20%26%20Quality%20Measures.pbix)
+
+---
+
 ## Data Professional Survey Analysis
 
 ### Overview
